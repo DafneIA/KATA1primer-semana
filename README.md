@@ -42,9 +42,8 @@ Sin embargo, aún faltan unos detallen que tomar en consideración, como en caso
 ![Publico Objetivo](https://user-images.githubusercontent.com/89712396/156656877-8e9f3e18-87bd-404b-a657-67e7976f6afe.jpg)
 
 #wireframe
-![Borrador1](https://user-images.githubusercontent.com/89712396/156656912-98efc662-85d3-4f92-8a6c-d36fee27bd0d.jpg)
-![Borrador2](https://user-images.githubusercontent.com/89712396/156656916-d3395212-df9e-4501-a9f4-eba35f44eeaa.jpg)
-![Borrador3](https://user-images.githubusercontent.com/89712396/156656917-1ad7d086-fd5d-4346-a8b2-155fb9b6350f.jpg)
+![CW](https://user-images.githubusercontent.com/89712396/156677837-2a7c0e6b-a851-42c2-9eee-1ba5584e3f41.jpg)
+
 
 #ui
 ![UI1](https://user-images.githubusercontent.com/89712396/156656953-c07f4425-038f-40e4-a9f2-6541208efb23.jpg)
