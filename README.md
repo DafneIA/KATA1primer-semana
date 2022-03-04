@@ -43,14 +43,13 @@ Sin embargo, aún faltan unos detallen que tomar en consideración, como en caso
 
 #wireframe
 
-![Borrador1](https://user-images.githubusercontent.com/89712396/156678845-e440424a-a87d-417b-860c-9862a8c555fe.jpg)
-![Borrador2](https://user-images.githubusercontent.com/89712396/156678847-ce46013c-9cd5-431e-8790-69533ac2e3b2.jpg)
-![Borrador3](https://user-images.githubusercontent.com/89712396/156678849-b5b39cd4-57f5-4f19-a84e-cf68b79e012a.jpg)
+![Borrador1](https://user-images.githubusercontent.com/89712396/156679720-01f3468a-1013-4692-abfa-45ba567eccf4.jpg)
+![Borrador2](https://user-images.githubusercontent.com/89712396/156679723-0c231133-3ccd-4f73-9978-021290ad8307.jpg)
+![Borrador3](https://user-images.githubusercontent.com/89712396/156679724-050347ed-ff5d-4e5b-b53b-89e413e1a92a.jpg)
 
 
 #ui
 
-![UI1](https://user-images.githubusercontent.com/89712396/156678880-46676dfd-d42c-427e-b0bf-f9b0e34ef89e.jpg)
-![UI2](https://user-images.githubusercontent.com/89712396/156678883-c4d0b584-9f60-4e48-b1ff-6a177245b5e0.jpg)
-![UI3](https://user-images.githubusercontent.com/89712396/156678885-749135a3-ea63-42d8-896c-fd16ffa7be0e.jpg)
-
+![UI1](https://user-images.githubusercontent.com/89712396/156679756-ce14c1a1-8bb5-4b7d-99bc-7449d9c0ad7b.jpg)
+![UI2](https://user-images.githubusercontent.com/89712396/156679757-26ca0d03-f69c-476d-918a-f3da40ee0b9c.jpg)
+![UI3](https://user-images.githubusercontent.com/89712396/156679761-ce5c2d27-a19c-4dcc-901c-ed17babd94d8.jpg)
