@@ -42,7 +42,7 @@ Sin embargo, aún faltan unos detallen que tomar en consideración, como en caso
 ![Publico Objetivo](https://user-images.githubusercontent.com/89712396/156656877-8e9f3e18-87bd-404b-a657-67e7976f6afe.jpg)
 
 #wireframe
-![CW](https://user-images.githubusercontent.com/89712396/156677837-2a7c0e6b-a851-42c2-9eee-1ba5584e3f41.jpg)
+![CW1](https://user-images.githubusercontent.com/89712396/156678022-0bdd7969-9066-4e26-a61f-deb9c3f7df52.jpg)
 
 
 #ui
