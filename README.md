@@ -42,10 +42,15 @@ Sin embargo, aún faltan unos detallen que tomar en consideración, como en caso
 ![Publico Objetivo](https://user-images.githubusercontent.com/89712396/156656877-8e9f3e18-87bd-404b-a657-67e7976f6afe.jpg)
 
 #wireframe
-![CW1](https://user-images.githubusercontent.com/89712396/156678022-0bdd7969-9066-4e26-a61f-deb9c3f7df52.jpg)
+
+![Borrador1](https://user-images.githubusercontent.com/89712396/156678845-e440424a-a87d-417b-860c-9862a8c555fe.jpg)
+![Borrador2](https://user-images.githubusercontent.com/89712396/156678847-ce46013c-9cd5-431e-8790-69533ac2e3b2.jpg)
+![Borrador3](https://user-images.githubusercontent.com/89712396/156678849-b5b39cd4-57f5-4f19-a84e-cf68b79e012a.jpg)
 
 
 #ui
-![UI1](https://user-images.githubusercontent.com/89712396/156656953-c07f4425-038f-40e4-a9f2-6541208efb23.jpg)
-![UI2](https://user-images.githubusercontent.com/89712396/156656956-8182a4bf-464e-40bf-b616-02197a3be652.jpg)
-![UI3](https://user-images.githubusercontent.com/89712396/156656957-a8f909fb-845c-4320-a2ff-38cb91718c17.jpg)
+
+![UI1](https://user-images.githubusercontent.com/89712396/156678880-46676dfd-d42c-427e-b0bf-f9b0e34ef89e.jpg)
+![UI2](https://user-images.githubusercontent.com/89712396/156678883-c4d0b584-9f60-4e48-b1ff-6a177245b5e0.jpg)
+![UI3](https://user-images.githubusercontent.com/89712396/156678885-749135a3-ea63-42d8-896c-fd16ffa7be0e.jpg)
+
